@@ -36,4 +36,4 @@ High-level reference for evaluating **electronic voucher batch generation** insi
 - Inventory load and first-sale marker  
 - Batch close / archive with final tallies  
 
-Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system/), [evdsystem.com](https://evdsystem.com/).
+Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/), [evdsystem.com](https://evdsystem.com/).
